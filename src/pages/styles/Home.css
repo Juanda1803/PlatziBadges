@@ -1,0 +1,20 @@
+.home {
+  background: url("../../images/stars.svg"), #1b1b25;
+  background-repeat: repeat;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+.home__img {
+  margin: 47px auto;
+}
+.home__container {
+  text-align: center;
+  margin: auto;
+}
+.home-item {
+  width: 300px;
+  color: white;
+}
